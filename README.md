@@ -1,4 +1,4 @@
-# unmute-page
+# UNMUTE
 ## Unmute Landing Page (index.html)
 
 **About This Project**
